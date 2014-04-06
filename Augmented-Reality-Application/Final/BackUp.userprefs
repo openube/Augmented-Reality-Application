@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/WorkSpaceManage.cs">
+    <Files>
+      <File FileName="Assets/Script/ToolbarTrackableEventHandler.cs" Line="130" Column="1" />
+      <File FileName="Assets/Script/WorkSpaceManage.cs" Line="31" Column="4" />
+      <File FileName="Assets/Script/CameraBehavior.cs" Line="126" Column="5" />
+      <File FileName="Assets/Script/ObjManage.cs" Line="44" Column="85" />
+      <File FileName="Assets/Script/otherTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Selection.cs" Line="198" Column="3" />
+      <File FileName="Assets/Script/BaseTrackableEventHandler.cs" Line="108" Column="56" />
+      <File FileName="Assets/Script/ToolbarBehavior.cs" Line="101" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
