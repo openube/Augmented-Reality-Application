@@ -23,14 +23,14 @@ public class CameraBehavior : MonoBehaviour {
 	void OnGUI()
 	{
 		// For mobile setting
-//
-//		GUI.skin.GetStyle ("Button").fontSize = 45;
-//		GUI.skin.GetStyle ("Label").fontSize = 45;			
-//		GUI.skin.GetStyle ("TextField").fontSize = 45;
-//		GUI.skin.GetStyle ("HorizontalSlider").fixedHeight = 45;
-//		GUI.skin.GetStyle ("HorizontalSlider").fixedWidth = 300;
-//		GUI.skin.GetStyle("Box").fontSize = 45	;
-//		
+
+		GUI.skin.GetStyle ("Button").fontSize = 45;
+		GUI.skin.GetStyle ("Label").fontSize = 45;			
+		GUI.skin.GetStyle ("TextField").fontSize = 45;
+		GUI.skin.GetStyle ("HorizontalSlider").fixedHeight = 45;
+		GUI.skin.GetStyle ("HorizontalSlider").fixedWidth = 300;
+		GUI.skin.GetStyle("Box").fontSize = 45	;
+		
 		if(isON)
 		{
 			//GUILayout.BeginArea( ResizeGUI(new Rect(0,0,200, 800)) );
