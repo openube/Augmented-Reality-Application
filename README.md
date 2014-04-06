@@ -109,9 +109,6 @@ Precisions are not guaranteed, so if you run into situations like losing sight o
 
 ## Bugs 
 
-RigidBody Bug:
-	Because collision requires both objects have 'RigidBody' physical property, if toolbar colliders with objects many times, toolbar maybe out of sight.
-
 Create car Bug:
 	When touching the mirrored car on the workspace using Toolbar_Front side, the new cars created right above the ground imagine targe will overlap, like only one car is there. But if you look into the debug informations, my program successfully created multiple cars, their positions cannot be properly set.
 
