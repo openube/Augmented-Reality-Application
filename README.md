@@ -105,8 +105,7 @@ Selecting more than one car at a time is not supported.
 Precisions are not guaranteed, so if you run into situations like losing sight of the selected car in the screen, just type the reset GUI button to reset the selected car in its first position and orientation.
 
 # Video Links
-
-[My youtube videos](https://www.youtube.com/user/a3090102735/videos)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/p-iVYBz61Fo/0.jpg)](http://www.youtube.com/watch?v=p-iVYBz61Fo)
 
 ## Bugs 
 
