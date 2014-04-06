@@ -122,6 +122,8 @@ public class CameraBehavior : MonoBehaviour {
 			if(GUILayout.Button("reset"))
 			{
 				car.transform.GetComponent<Selection>().reset();
+				ToolbarBehavior.EnableScale = ToolbarBehavior.EnableRotate = ToolbarBehavior.EnableTranslate = false;;
+				ToolbarBehavior.workspace = false;
 			}
 
 			GUILayout.EndVertical();

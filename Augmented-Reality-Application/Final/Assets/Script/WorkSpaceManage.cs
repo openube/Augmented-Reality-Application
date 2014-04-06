@@ -75,6 +75,10 @@ public class WorkSpaceManage : MonoBehaviour {
 				showFlag = false;
 			}
 		}
+		else{
+			CloneCar.SetActive(false);
+			showFlag = false;
+		}
 		
 	}
 }

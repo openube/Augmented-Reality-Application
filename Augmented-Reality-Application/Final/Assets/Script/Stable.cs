@@ -6,7 +6,6 @@ public class Stable : MonoBehaviour {
 	public Transform parent;
 	// Use this for initialization
 	void Start () {
-		parent = this.gameObject.transform.parent;
 
 	}
 	
@@ -18,7 +17,7 @@ public class Stable : MonoBehaviour {
 	public void reset()
 	{
 		this.gameObject.transform.position = parent.transform.position + new Vector3(0,0,0);
-		this.gameObject.transform.eulerAngles = new Vector3(0,0,0);
+		this.gameObject.transform.eulerAngles = parent.transform.eulerAngles + new Vector3(0,0,0);
 	}
 	
 }
